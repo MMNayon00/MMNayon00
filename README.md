@@ -18,7 +18,7 @@
 
 ---
 
-# ✨ Attractive Skill Icons
+# ✨ Skill Icons
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,html,css,js,react,flutter,dart,mysql&perline=6" />
