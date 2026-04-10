@@ -30,6 +30,7 @@
 
 <p align="center">
 <img src="https://skills.syvixor.com/api/icons?i=cisco,kali,figma,canva,capcut,lightroom,aws,redhat,docker,kubernetes" />
+<br><br>
 <img src="https://img.shields.io/badge/MikroTik-RouterOS-blue?style=for-the-badge&logo=mikrotik&logoColor=white" />
 </p>
 
