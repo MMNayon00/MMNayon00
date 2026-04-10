@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-<img src="https://skills.syvixor.com/api/icons?i=cisco,kali,linux,python,react,mysql,flutter,dart,git,redhat" />
+<img src="https://skills.syvixor.com/api/icons?i=cisco,kali,linux,python,react,mysql,dart,redhat,docker,kubernetes" />
 </p>
 ---
 
