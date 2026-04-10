@@ -29,9 +29,8 @@
 </p>
 
 <p align="center">
-<img src="https://skills.syvixor.com/api/icons?i=cisco,kali,linux,python,react,mysql,flutter,dart,git,github" />
+<img src="https://skills.syvixor.com/api/icons?i=cisco,kali,linux,python,react,mysql,flutter,dart,git,redhat" />
 </p>
-
 ---
 
 # 🚀 Tech Stack Badges
