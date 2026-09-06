@@ -128,3 +128,90 @@ Development
 ├── Database Development
 └── API Integration
 
+
+---
+
+# 💡 Currently Exploring
+
+- 🔐 Cyber Security & Ethical Hacking
+- 🌐 Advanced Network Engineering
+- 🧠 Artificial Intelligence
+- 🤖 Deep Learning
+- 💻 Full-Stack Software Development
+- 📱 Flutter Application Development
+- ☁️ Cloud & DevOps
+- 🐳 Docker & Kubernetes
+- 🔬 Cyber Security Research
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MMNayon00&show_icons=true&theme=tokyonight&hide_border=true">
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MMNayon00&theme=tokyonight&hide_border=true">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMNayon00&layout=compact&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+<p align="center">
+<picture>
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/MMNayon00/MMNayon00/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/MMNayon00/MMNayon00/output/github-contribution-grid-snake.svg">
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/MMNayon00/MMNayon00/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+I'm always interested in collaborating on interesting projects involving
+<b>Cyber Security, Networking, Software Development, Web Development, AI</b>
+and <b>Research</b>.
+</p>
+
+<p align="center">
+
+💻 <b>GitHub:</b>
+<a href="https://github.com/MMNayon00">MMNayon00</a>
+
+<br>
+
+💼 <b>LinkedIn:</b>
+<a href="https://www.linkedin.com/in/md-mostofa-nayon/">Md. Mostofa Nayon</a>
+
+<br>
+
+📧 <b>Email:</b>
+<a href="mailto:mostofanayon.official@gmail.com">
+mostofanayon.official@gmail.com
+</a>
+
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<p align="center">
+<i>Building • Securing • Innovating</i>
+</p>
