@@ -101,3 +101,29 @@ Certifications:
   - Cisco Certified Network Associate (CCNA)
   - IT Infrastructure & Ethical Hacking (PGD)
   - AI+ Prompt Engineer Level 1
+
+Network Engineering
+├── Cisco Networking
+├── Routing & Switching
+├── TCP/IP
+├── VLAN & Trunking
+├── DHCP & DNS
+├── Network Troubleshooting
+└── Network Security
+
+Cyber Security
+├── Ethical Hacking
+├── Linux & Kali Linux
+├── Vulnerability Assessment
+├── Web Security
+├── Network Security
+├── Security Research
+└── Penetration Testing
+
+Development
+├── Software Development
+├── Web Development
+├── Full-Stack Development
+├── Flutter App Development
+├── Database Development
+└── API Integration
