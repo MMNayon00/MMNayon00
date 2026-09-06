@@ -251,39 +251,7 @@ Development:
 
 ---
 
-# 📈 GitHub Activity
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MMNayon00&theme=tokyo-night&hide_border=true&area=true" />
-
-</p>
-
----
-
-# 🐍 GitHub Contribution Snake
-
-<p align="center">
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/MMNayon00/MMNayon00/output/github-contribution-grid-snake-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/MMNayon00/MMNayon00/output/github-contribution-grid-snake.svg">
-
-<img
-alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/MMNayon00/MMNayon00/output/github-contribution-grid-snake.svg">
-
-</picture>
-
-</p>
-
----
 
 # 🚀 Featured Projects
 
@@ -372,6 +340,12 @@ Cyber Security
 Ethical Hacking
      ↓
 Security Research
+     ↓
+Software Development
+     ↓
+Web & Full-Stack Development
+     ↓
+Flutter App Development
      ↓
 AI + Cyber Security
 ```
