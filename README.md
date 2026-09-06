@@ -374,39 +374,6 @@ AI + Cyber Security
 
 ---
 
-# 📫 Let's Connect
-
-<p align="center">
-
-I'm always interested in collaborating on interesting projects involving
-
-<b>Cyber Security, Networking, Software Development, Web Development, AI</b>
-and <b>Research</b>.
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/MMNayon00">
-<img src="https://img.shields.io/badge/GitHub-MMNayon00-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/md-mostofa-nayon/">
-<img src="https://img.shields.io/badge/LinkedIn-Md.%20Mostofa%20Nayon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://nayon.bd">
-<img src="https://img.shields.io/badge/Portfolio-NAYON.BD-00D9E8?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-
-<a href="mailto:mostofanayon.official@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
-
----
-
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
 <p align="center">
