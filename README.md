@@ -273,23 +273,6 @@ Development:
 
 ---
 
-# 🌐 My Portfolio
-
-<p align="center">
-
-<a href="https://nayon.bd">
-
-<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-NAYON.BD-00D9E8?style=for-the-badge">
-
-</a>
-
-</p>
-
-<p align="center">
-Explore my projects, skills, experience and professional work.
-</p>
-
----
 
 # 🔬 Research Interests
 
